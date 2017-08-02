@@ -2,4 +2,5 @@
 
 void main() {
 	printf("git study");
+	printf("git study222");
 }
